@@ -9,3 +9,6 @@ Key Learning: cat, more, less, head and tail.( for view) cp, mv, ( for copy and 
 
 Day 3 Topic: Text Processing and Filtering
 Key Learning: | (Pipe), grep, cut, sort and uniq, 
+
+Day 4 Topic: User and Group Administrator
+Key Learning: useradd, usermod -aG, /etc/passwd, /etc/shadow, and visudo
