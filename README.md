@@ -12,3 +12,9 @@ Key Learning: | (Pipe), grep, cut, sort and uniq,
 
 Day 4 Topic: User and Group Administrator
 Key Learning: useradd, usermod -aG, /etc/passwd, /etc/shadow, and visudo
+
+Day 5 Topic: File permissions & Access Control List
+Key learning: Permission Ownership type( User, Group, Other) Permission Type (Read,write,Execute), chmod, chown, chgrp, numeric permissions, and setfacl/getfacl.
+
+Day 6 Topic: Package Management & Repositories 
+Key Learning: apt, dpkg, yum, sources.list, and dependency management, Difference between 'apt update and apt upgrade', High level and low lever packing tool.
