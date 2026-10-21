@@ -18,3 +18,9 @@ Key learning: Permission Ownership type( User, Group, Other) Permission Type (Re
 
 Day 6 Topic: Package Management & Repositories 
 Key Learning: apt, dpkg, yum, sources.list, and dependency management, Difference between 'apt update and apt upgrade', High level and low lever packing tool.
+
+Day 7 Topic: Reviews and Lab Practical assessment
+Key Learning: yum update, yum install tree, groupadd, useradd, cut, sort, uniq etc..
+
+Day 8  Topic: Process management and service control
+Key Learning: What is PID, Process status (R,S,Z,), Monitoring Tool (ps,top,htop), kill, systemctl 
