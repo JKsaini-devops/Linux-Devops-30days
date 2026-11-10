@@ -24,3 +24,9 @@ Key Learning: yum update, yum install tree, groupadd, useradd, cut, sort, uniq e
 
 Day 8  Topic: Process management and service control
 Key Learning: What is PID, Process status (R,S,Z,), Monitoring Tool (ps,top,htop), kill, systemctl 
+
+Day 9 Topic: Disk & Storage Management 
+Key Learning: df -h, du -sh, lsblk
+
+Day 10 Topic: Network and Remote Connectivity 
+key Learning: Network Interface, ip address, Service Port, Ping, ssh
