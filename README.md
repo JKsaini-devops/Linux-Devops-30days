@@ -33,3 +33,6 @@ key Learning: Network Interface, ip address, Service Port, Ping, ssh
 
 Day 11 Topic: Advance Storage Architecture ( LVM )
 Key Learning: LVM architecture (pvcreate, vgcreate, lvcreate, and lvextend)
+
+Day 12 Topic: Filesystem Inodes & Mounting
+key Learning: Inodes, mkfs, df -i, and /etc/fstab configuration
