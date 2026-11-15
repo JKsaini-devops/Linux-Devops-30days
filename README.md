@@ -30,3 +30,6 @@ Key Learning: df -h, du -sh, lsblk
 
 Day 10 Topic: Network and Remote Connectivity 
 key Learning: Network Interface, ip address, Service Port, Ping, ssh
+
+Day 11 Topic: Advance Storage Architecture ( LVM )
+Key Learning: LVM architecture (pvcreate, vgcreate, lvcreate, and lvextend)
