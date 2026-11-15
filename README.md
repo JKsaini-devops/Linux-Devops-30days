@@ -36,3 +36,6 @@ Key Learning: LVM architecture (pvcreate, vgcreate, lvcreate, and lvextend)
 
 Day 12 Topic: Filesystem Inodes & Mounting
 key Learning: Inodes, mkfs, df -i, and /etc/fstab configuration
+
+Day 13 Topic: Scheduled Task and Automation ( Cron, crontab )
+Key Learning: Cron architecture, syntax, and troubleshooting
